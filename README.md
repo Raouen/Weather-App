@@ -87,8 +87,4 @@ weather-app/
 ## Author
 
 Raouen Saoudi
-
-Developed for the Product Manager Accelerator Technical Assessment.
-**Raouen Saoudi**
-
 Developed for the Product Manager Accelerator Technical Assessment.
